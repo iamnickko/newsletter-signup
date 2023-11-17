@@ -1,3 +1,6 @@
+# This is live for demo at: https://newsletter-signup-bay.vercel.app/
+Built as a practice challenge from [frontendmentor.io](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv) using React and Tailwind
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
